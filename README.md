@@ -13,5 +13,9 @@ You need `npm`, `pip3`, and `python3` to run this webapp.
 7. Run: `python3 backend/app.py`
 8. Open http://127.0.0.1:5000/
 
+## Changes in this branch
+* Change fetch execute to http://jayprakash-se.xyz/compiler/exe.php
+* Remove proxy from package.json
+
 ## License
 MIT

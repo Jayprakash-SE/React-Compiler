@@ -49,7 +49,7 @@ class App extends Component {
     onRun = () => {
         this.setState({ progress: true });
 
-        fetch('/execute', {
+        fetch('http://jayprakash-se.xyz/compiler/exe.php', {
             method: 'post',
             body: JSON.stringify(this.state),
             header: {
