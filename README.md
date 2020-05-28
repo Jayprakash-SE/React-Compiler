@@ -16,6 +16,7 @@ You need `npm`, `pip3`, and `python3` to run this webapp.
 ## Changes in this branch
 * Change fetch execute to http://jayprakash-se.xyz/compiler/exe.php
 * Remove proxy from package.json
+* Add Content-Security-Policy meta tag
 
 ## License
 MIT
